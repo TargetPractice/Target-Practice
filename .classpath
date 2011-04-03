@@ -5,5 +5,6 @@
 	<classpathentry kind="lib" path="/Users/Neko/Downloads/java3d-1_5_1-macosx/j3d-jre.zip"/>
 	<classpathentry kind="lib" path="/Users/Neko/Downloads/WiiRemoteJ v1.6/WiiRemoteJ.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Doug/Desktop/WiiRemoteJ v1.6/WiiRemoteJ.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Doug/Desktop/bluecove-2.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
