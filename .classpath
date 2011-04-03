@@ -4,7 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="lib" path="/Users/Neko/Downloads/java3d-1_5_1-macosx/j3d-jre.zip"/>
 	<classpathentry kind="lib" path="/Users/Neko/Downloads/WiiRemoteJ v1.6/WiiRemoteJ.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Doug/Desktop/WiiRemoteJ v1.6/WiiRemoteJ.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Doug/Desktop/bluecove-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Neko/Downloads/bluecove-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Neko/Downloads/bluecove-2-1.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
